@@ -26,6 +26,22 @@ a {
     position: fixed; width: 100%;
     display: inline;
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #caebf2;
+    padding-bottom: .5em;
+    border: 1px solid #646174;
+    box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 7px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+
 section {
     padding: 10px;
     margin: 10px;
