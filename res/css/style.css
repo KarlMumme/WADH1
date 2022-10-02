@@ -102,4 +102,11 @@ h1 {
 
 div p {
     font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header > ul > li {
+    align-items: center;
+    display: inline-block;
 }
