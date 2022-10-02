@@ -87,9 +87,18 @@ input {
     height: 30px;  
     border: none;
     border-radius: 17px;  
-    color: rgb(142, 142, 223);
+    color: rgb(72, 72, 206);
 }
 
 h1 {
     font-size: 27px;
+}
+
+#optionSelect {
+    text-align: center;
+    color: rgb(77, 77, 219);
+}
+
+div p {
+    font-size: 20px;
 }
