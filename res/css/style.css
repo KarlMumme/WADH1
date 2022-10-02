@@ -24,7 +24,6 @@ a {
     box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.75);
     border-radius: 7px;
     position: fixed; width: 100%;
-    display: inline;
 }
 .footer {
     position: fixed;
@@ -127,3 +126,26 @@ div p {
     display: inline-block;
 }
 
+.column1 {
+    display: flex;
+    justify-content: center;
+    float: left;
+    height: 100%;
+    width: 100px;
+    background-color: #caebf2;
+    border: 1px solid #646174;
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 7px;
+}
+
+.column2 {
+    display: flex;
+    justify-content: center;
+    float: right;
+    height: 100%;
+    width: 100px;
+    background-color: #caebf2;
+    border: 1px solid #646174;
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 7px;
+}
