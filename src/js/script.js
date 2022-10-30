@@ -1,5 +1,5 @@
 window.onload = function() {
-    //fetch('https://api.jsonbin.io/v3/b/635e94470e6a79321e395bff?meta=false') 
+    //online = > fetch('https://api.jsonbin.io/v3/b/635e94470e6a79321e395bff?meta=false') 
 
     fetch('res/json/myjson.json') 
         .then((response) => response.json())
