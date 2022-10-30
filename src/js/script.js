@@ -68,9 +68,8 @@ window.onload = function() {
         errDiv.innerText = err;
         document.body.appendChild(errDiv);
         })
-
-
 }
+
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
   }
