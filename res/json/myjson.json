@@ -1,12 +1,47 @@
 [
     {
         "userId": 1,
-        "id": 1,
+        "id": 5,
+        "title": "Best match yet!!!",
+        "body": "Another great match by Arsenal! So happy I got to witness it in real life.\n Can't wait for their next game!",
+        "author": "Author: Karl |",
+        "time": "27.10.2022 |",
+        "timeOfDay": "Time of day: Evening  |",
+        "weekday": "Weekday: Thursday   |",
+        "weather": "Weather: Sunny  |",
+        "mood": "Mood: Happy",
+        "image": "res/images/arsenal.jpg"
+      },{
+        "userId": 2,
+        "id": 4,
+        "title": "When will the weather get better?",
+        "body": "I'm so tired of this cold, rainy weather :/\nI miss summer already.\nHopefully there will be more sunny days before winter...",
+        "author": "Author: Robin |",
+        "time": "15.10.2022 |",
+        "timeOfDay": "Time of day: Morning  |",
+        "weekday": "Weekday: Saturday   |",
+        "weather": "Weather: Rainy  |",
+        "mood": "Mood: Tired"
+      },{
+        "userId": 3,
+        "id": 3,
+        "title": "My absolute favorite dessert.",
+        "body": "Made some cinnamon rolls this morning using my family's secret recipe.\n They taste absolutely heavenly! No other recipe can compare.",
+        "author": "Author: Anett |",
+        "time": "13.09.2022 |",
+        "timeOfDay": "Time of day: Morning  |",
+        "weekday": "Weekday: Tuesday  |",
+        "weather": "Weather: Cloudy  |",
+        "mood": "Mood: Hungry",
+        "image": "res/images/cinnamon.jpg"
+      },{
+        "userId": 1,
+        "id": 2,
         "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
         "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
         "author": "Author: Karl |",
         "time": "27.10.2022 |",
-        "timeOfDay": "TIme of day: Morning  |",
+        "timeOfDay": "Time of day: Morning  |",
         "weekday": "Weekday: Thursday   |",
         "weather": "Weather: Sunny  |",
         "mood": "Mood: Tired",
@@ -18,33 +53,9 @@
         "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
         "author": "Author: Karl |",
         "time": "27.10.2022 |",
-        "timeOfDay": "TIme of day: Morning  |",
+        "timeOfDay": "Time of day: Morning  |",
         "weekday": "Weekday: Thursday   |",
         "weather": "Weather: Sunny  |",
         "mood": "Mood: Tired"
-      },{
-        "userId": 1,
-        "id": 1,
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "author": "Author: Karl |",
-        "time": "27.10.2022 |",
-        "timeOfDay": "TIme of day: Morning  |",
-        "weekday": "Weekday: Thursday   |",
-        "weather": "Weather: Sunny  |",
-        "mood": "Mood: Tired",
-        "image": "res/images/arsenal.jpg"
-      },{
-        "userId": 1,
-        "id": 1,
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "author": "Author: Karl |",
-        "time": "27.10.2022 |",
-        "timeOfDay": "TIme of day: Morning  |",
-        "weekday": "Weekday: Thursday   |",
-        "weather": "Weather: Sunny  |",
-        "mood": "Mood: Tired",
-        "image": "res/images/arsenal.jpg"
       }
 ]
