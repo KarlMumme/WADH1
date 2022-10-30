@@ -4,6 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="res/css/style.css">
+    <script type="text/javascript" src="src/js/script.js"></script>
     <link rel="icon" href="res/images/Favicon.ico">
 </head>
 
@@ -12,11 +13,20 @@
     <header class="header">
 
         <ul class="nav">
-            <li style="display:inline-block;"><a href="index.html">Home</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="addPost.html">AddPost</a></li>
         </ul>
 
-        <a class="logo" href="#" ><img src="res/images/me.png" width="60" height="60" alt="My picture"></a>
-
+        <div class="dropdown">
+            <img src="res/images/me.png" width="60" height="60" alt="My picture" onclick="myFunction()" class="dropbtn"></img>
+            <div id="myDropdown" class="dropdown-content">
+              <ul>
+                <li>John Doe</li>
+                <li>John.Doe@ut.ee</li>
+                <li>logout</li>
+              </ul>
+            </div>
+          </div>
     </header>
 
     <section>
