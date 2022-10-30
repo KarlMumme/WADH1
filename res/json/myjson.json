@@ -37,25 +37,26 @@
       },{
         "userId": 1,
         "id": 2,
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "author": "Author: Karl |",
-        "time": "27.10.2022 |",
-        "timeOfDay": "Time of day: Morning  |",
-        "weekday": "Weekday: Thursday   |",
-        "weather": "Weather: Sunny  |",
-        "mood": "Mood: Tired",
-        "image": "res/images/arsenal.jpg"
+        "title": "No place better than home",
+        "body": "Visiting my childhood home for the weekend, can't remember the last time I felt so at peace.",
+        "author": "Author: Mia |",
+        "time": "10.09.2022 |",
+        "timeOfDay": "Time of day: Evening  |",
+        "weekday": "Weekday: Friday   |",
+        "weather": "Weather: Cloudy  |",
+        "mood": "Mood: Calm",
+        "image": "res/images/download.png"
       },{
         "userId": 1,
         "id": 1,
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "author": "Author: Karl |",
-        "time": "27.10.2022 |",
+        "title": "Found a new hiking trail",
+        "body": "Went exploring with some friends on the weekend, found this cool trail! \n Can't wait to look through all the pics I took!",
+        "author": "Author: Liisa |",
+        "time": "09.09.2022 |",
         "timeOfDay": "Time of day: Morning  |",
-        "weekday": "Weekday: Thursday   |",
+        "weekday": "Weekday: Saturday   |",
         "weather": "Weather: Sunny  |",
-        "mood": "Mood: Tired"
+        "mood": "Mood: Energized",
+        "image": "res/images/download (1).png"
       }
 ]
